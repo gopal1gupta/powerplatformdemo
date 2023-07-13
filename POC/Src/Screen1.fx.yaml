@@ -4,7 +4,7 @@ Screen1 As screen:
         Align: =Align.Center
         Height: =225
         Size: =50
-        Text: ="this is develop branch"
+        Text: ="this is develop branch 2"
         Width: =527
         X: =472
         Y: =292
