@@ -1,0 +1,12 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Align: =Align.Center
+        Height: =225
+        Size: =50
+        Text: ="release 1"
+        Width: =527
+        X: =472
+        Y: =292
+        ZIndex: =1
+
