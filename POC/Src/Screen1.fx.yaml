@@ -4,7 +4,7 @@ Screen1 As screen:
         Align: =Align.Center
         Height: =225
         Size: =50
-        Text: ="release 1"
+        Text: ="release 2 mainapp"
         Width: =527
         X: =472
         Y: =292
