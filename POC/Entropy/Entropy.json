@@ -9,7 +9,9 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+
   "HeaderLastSavedDateTimeUTC": "07/14/2023 02:30:25",
+
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -35,19 +37,25 @@
   "PublishOrderIndices": {
     "App": 0,
     "Host": 0,
+
     "Label1": 0,
+
     "Screen1": 3
   },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
+
     "AnalysisLoadTime": 0.0073537,
+
     "ControlCount": {
       "label": 1,
       "screen": 1
     },
+
     "DeserializationLoadTime": 0.3271678
+
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
