@@ -6,5 +6,5 @@ App As appinfo:
         OnEdit: =false
         OnNew: =false
         OnSave: =false
-        OnView: =false
+        # OnView: =false
 
